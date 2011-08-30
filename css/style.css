@@ -9,6 +9,6 @@ Lav en CSS reset for html5
 #headNav{
     height: 50px;
     background: url("../images/bg_head_nav.jpg") repeat-x;
-
+    color: #666666;
 }
 
