@@ -10,5 +10,6 @@ Lav en CSS reset for html5
     height: 50px;
     background: url("../images/bg_head_nav.jpg") repeat-x;
 	color: rgb(255,255,255);
+	position: relative;
 }
 
