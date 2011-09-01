@@ -14,3 +14,9 @@ Lav en CSS reset for html5
 	z-index: 3;
 }
 
+.nav .left{
+	
+	padding: 20px 0px 40px 0px;
+	background: url(../images/bg_head_nav.jpg);
+}
+
